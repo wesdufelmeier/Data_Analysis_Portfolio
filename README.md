@@ -1,4 +1,4 @@
-## DAB812-capstone
+## Wesley Dufelmeier Data Analyst Portfolio
 
 Hi, I'm Wesley. Welcome to my Data Analysis Portfolio! I have a background in Psychology and I'm passionate about transforming data into actionable insights. I'm currently working in the field of Data Analytics and have a strong interest in leveraging data storytelling to drive strategic decisions and create impactful visualizations. I thrive on solving problems and collaborating with teams to generate value through data.
 
